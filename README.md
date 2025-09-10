@@ -4,11 +4,9 @@ This repo is for showing codes in postnatal liver single cell analysis
 
 ## Future Plan
 
-*In the future, we will upload following codes and files:*
+_In the future, we will upload following codes and files:_
 
-- [ ] The postnatal pesudotime analysis codes.
-- [ ] The lipid metabolism analysis codes.
-- [ ] The Raw figures generated from these codes.
+- [x] The postnatal pseudotime analysis codes.
 
 ```
 We are still trying to orgnize these codes. Hope everything goes will in the future.
